@@ -46,7 +46,7 @@ The peak hours for both the summer and winter months are at 8am and 6pm. A large
 
 On average, riders who are 20 years old have the longest trip duration. However, there are more older individuals (specifically 51 year olds), who ride more but with shorter trip duration.
 
-It is also good to note, that some of the birth year in the dataset are incorrect and unrealistic. The graph shows that there are 5,631 90 year olds, 482 120 year olds, and 14,697 130 year olds that rode during the time period.
+It is also good to note that some of the birth year in the dataset are incorrect and unrealistic. The graph shows that there are 5,631 90 year olds, 482 120 year olds, and 14,697 130 year olds that rode during the time period. The birth year indicated in the dataset for the last two are 1900 and 1881.
 
 
 ## Copyright
